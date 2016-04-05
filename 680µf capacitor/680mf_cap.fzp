@@ -1,0 +1,83 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<module fritzingVersion="0.2.1223" referenceFile="680mf_cap.fzp" moduleId="680mf_cap">
+ <version>4</version>
+ <author>Andre Maia Chagas</author>
+ <title>Electrolytic Capacitor</title>
+ <label>C</label>
+ <date>So. Apr. 3 2016</date>
+ <tags>
+  <tag>Electrolytic</tag>
+  <tag>Capacitor</tag>
+  <tag>680</tag>
+ </tags>
+ <properties>
+  <property name="family">capacitor [unidirectional]</property>
+  <property name="variant">variant 1</property>
+  <property name="voltage">16V</property>
+  <property name="package">200 mil [THT, electrolytic]</property>
+  <property name="layer"></property>
+  <property name="part number"></property>
+  <property name="capacitance">680µF</property>
+ </properties>
+ <taxonomy>discreteParts.capacitor.electrolytic</taxonomy>
+ <description>A small electrolytic capacitor</description>
+ <spice>
+  <line>C{instanceTitle} {net connector0} {net connector1} {capacitance} IC=0</line>
+ </spice>
+ <views>
+  <iconView>
+   <layers image="icon/680mf_cap_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+  <breadboardView fliphorizontal="true" flipvertical="true">
+   <layers image="breadboard/680mf_cap_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView>
+   <layers image="schematic/680mf_cap_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/680mf_cap_pcb.svg">
+    <layer layerId="copper0"/>
+    <layer layerId="silkscreen"/>
+    <layer layerId="copper1"/>
+   </layers>
+  </pcbView>
+ </views>
+ <connectors>
+  <connector type="male" id="connector0" name="-">
+   <description>- side</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector0pin" layer="breadboard" legId="connector0leg"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector0pin" terminalId="connector0terminal" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector0pin" layer="copper0"/>
+     <p svgId="connector0pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" id="connector1" name="+">
+   <description>+ side</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector1pin" layer="breadboard" legId="connector1leg"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector1pin" terminalId="connector1terminal" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector1pin" layer="copper0"/>
+     <p svgId="connector1pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+</module>

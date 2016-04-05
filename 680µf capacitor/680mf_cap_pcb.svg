@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 210"  id="svg2" version="1.1" height="18.9" gorn="0" width="18.9">
+    <desc>
+        <referenceFile>capacitor_elko_small_100mil.svg</referenceFile>
+    </desc>
+    <desc  id="desc4">Fritzing footprint SVG</desc>
+    <g  id="copper1" gorn="0.1">
+        <g  id="copper0" gorn="0.1.0">
+            <rect  x="27.5" y="77.5" id="rect11" height="55" gorn="0.1.0.0" style="fill:none;stroke:#ffbf00;stroke-width:20" width="55"/>
+            <circle  id="connector0pin" cx="55" cy="105" gorn="0.1.0.1" style="fill:none;stroke:#ffbf00;stroke-width:20" r="27.5"/>
+            <circle  id="connector1pin" cx="155" cy="105" gorn="0.1.0.2" style="fill:none;stroke:#ffbf00;stroke-width:20" r="27.5"/>
+        </g>
+    </g>
+    <g  id="keepout" gorn="0.2"/>
+    <g  id="soldermask" gorn="0.3"/>
+    <g  id="outline" gorn="0.4"/>
+    <g  id="silkscreen" gorn="0.5">
+        <circle fill="none"  id="circle7" stroke="#ffffff" cx="105" cy="105" gorn="0.5.0" stroke-width="10" r="100"/>
+        <path fill="none" d="m 40,50 30,0" stroke-linecap="round"  stroke="#ffffff" stroke-width="11"/>
+        <path fill="none" d="m 40,160 30,0" stroke-linecap="round"  stroke="#ffffff" stroke-width="11"/>
+    </g>
+</svg>
