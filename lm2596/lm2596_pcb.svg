@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="0.43391323in"
+   id="svg2"
+   x="0in"
+   y="0in"
+   version="1.2"
+   viewBox="0 0 7.8062255 11.021408"
+   width="0.30733159in"
+   gorn="0"
+   inkscape:version="0.91 r"
+   sodipodi:docname="prefix_lm298_0000_afb635ae7448d3998c79922e514af171_1_pcb.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     id="namedview33"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="16.424673"
+     inkscape:cx="20.715663"
+     inkscape:cy="16.803452"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="silkscreen" />
+  <metadata
+     id="metadata86">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs84" />
+  <desc
+     id="desc4">
+    <referenceFile>sparkfun-poweric_multiwatt15_pcb.svg</referenceFile>
+  </desc>
+  <g
+     id="copper1"
+     gorn="0.3"
+     transform="translate(-7.5284152,0.03980726)">
+    <circle
+       id="connector7pad"
+       connectorname="8"
+       cx="10.2016"
+       cy="4.9516001"
+       gorn="0.3.0"
+       r="0.75"
+       style="fill:none;stroke:#f7bd13;stroke-width:0.40000001" />
+    <circle
+       id="connector9pad"
+       connectorname="10"
+       cx="12.7416"
+       cy="4.9516001"
+       gorn="0.3.1"
+       r="0.75"
+       style="fill:none;stroke:#f7bd13;stroke-width:0.40000001" />
+    <circle
+       id="connector6pad"
+       connectorname="7"
+       cx="8.9315996"
+       cy="10.0316"
+       gorn="0.3.2"
+       r="0.75"
+       style="fill:none;stroke:#f7bd13;stroke-width:0.40000001" />
+    <circle
+       id="connector8pad"
+       connectorname="9"
+       cx="11.4716"
+       cy="10.0316"
+       gorn="0.3.3"
+       r="0.75"
+       style="fill:none;stroke:#f7bd13;stroke-width:0.40000001" />
+    <circle
+       id="connector10pad"
+       connectorname="11"
+       cx="14.0116"
+       cy="10.0316"
+       gorn="0.3.4"
+       r="0.75"
+       style="fill:none;stroke:#f7bd13;stroke-width:0.40000001" />
+    <g
+       id="copper0"
+       gorn="0.3.5">
+      <circle
+         id="connector1pad"
+         connectorname="8"
+         cx="10.2016"
+         cy="4.9516001"
+         gorn="0.3.5.0"
+         r="0.75"
+         style="fill:none;stroke:#f7bd13;stroke-width:0.40000001" />
+      <circle
+         id="connector3pad"
+         connectorname="10"
+         cx="12.7416"
+         cy="4.9516001"
+         gorn="0.3.5.1"
+         r="0.75"
+         style="fill:none;stroke:#f7bd13;stroke-width:0.40000001" />
+      <circle
+         id="connector0pad"
+         connectorname="7"
+         cx="8.9315996"
+         cy="10.0316"
+         gorn="0.3.5.2"
+         r="0.75"
+         style="fill:none;stroke:#f7bd13;stroke-width:0.40000001" />
+      <circle
+         id="connector2pad"
+         connectorname="9"
+         cx="11.4716"
+         cy="10.0316"
+         gorn="0.3.5.3"
+         r="0.75"
+         style="fill:none;stroke:#f7bd13;stroke-width:0.40000001" />
+      <circle
+         id="connector4pad"
+         connectorname="11"
+         cx="14.0116"
+         cy="10.0316"
+         gorn="0.3.5.4"
+         r="0.75"
+         style="fill:none;stroke:#f7bd13;stroke-width:0.40000001" />
+    </g>
+  </g>
+  <g
+     id="silkscreen"
+     gorn="0.4"
+     transform="translate(-7.5284152,0.03980726)">
+    <line
+       id="line54"
+       y1="5.1016002"
+       y2="1.7016"
+       x1="7.6455789"
+       x2="7.6455789"
+       gorn="0.4.0"
+       class="other"
+       style="stroke:#f0f0f0;stroke-width:0.2032;stroke-linecap:round" />
+    <line
+       id="line56"
+       y1="1.73996"
+       y2="0.06323988"
+       x1="7.6314559"
+       x2="7.6314559"
+       gorn="0.4.1"
+       class="other"
+       style="stroke:#f0f0f0;stroke-width:0.20320021;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" />
+    <line
+       id="line58"
+       y1="0.06323988"
+       y2="0.06323988"
+       x1="7.6314559"
+       x2="15.227241"
+       gorn="0.4.2"
+       class="other"
+       style="stroke:#f0f0f0;stroke-width:0.20320021;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" />
+    <line
+       id="line60"
+       y1="0.06323988"
+       y2="1.73996"
+       x1="15.227241"
+       x2="15.227241"
+       gorn="0.4.3"
+       class="other"
+       style="stroke:#f0f0f0;stroke-width:0.20320021;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" />
+    <line
+       id="line62"
+       y1="1.7016"
+       y2="5.1016002"
+       x1="15.221591"
+       x2="15.221591"
+       gorn="0.4.4"
+       class="other"
+       style="stroke:#f0f0f0;stroke-width:0.20320021;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" />
+    <line
+       id="line64"
+       y1="1.73996"
+       y2="1.73996"
+       x1="7.6314559"
+       x2="15.227241"
+       gorn="0.4.5"
+       class="other"
+       style="stroke:#f0f0f0;stroke-width:0.20320021;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" />
+    <line
+       id="line66"
+       y1="5.0915999"
+       y2="5.0915999"
+       x1="7.6555791"
+       x2="8.9555779"
+       gorn="0.4.6"
+       class="other"
+       style="stroke:#f0f0f0;stroke-width:0.2032;stroke-linecap:round" />
+    <line
+       id="line74"
+       y1="5.0915999"
+       y2="5.0915999"
+       x1="11.3616"
+       x2="11.5616"
+       gorn="0.4.10"
+       class="other"
+       style="stroke:#f0f0f0;stroke-width:0.2032;stroke-linecap:round" />
+    <line
+       id="line80"
+       y1="5.0915999"
+       y2="5.0915999"
+       x1="15.231592"
+       x2="13.931595"
+       gorn="0.4.13"
+       class="other"
+       style="stroke:#f0f0f0;stroke-width:0.2032;stroke-linecap:round" />
+  </g>
+</svg>
